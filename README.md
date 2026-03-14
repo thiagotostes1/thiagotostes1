@@ -57,10 +57,10 @@ My main areas of expertise and research include:
 
 | Project | Focus Area | Impact / Description |
 |---|---|---|
-| **AI in Augmentative Communication (AAC)** | `Deep Learning / Accessibility` | Integrating AI to assist in the communication of autistic children by dynamically adapting interfaces. |
-| **Spatial Video Processing** | `Computer Vision / OpenCV` | Automation for precise frame extraction in videos based on GPX coordinates. |
-| **Commercial Proposal Generation** | `NLP / Machine Learning` | Integrated system for the E-smart sector that automates and drastically reduces proposal delivery time. |
-| **EVA Web Platform** | `Fullstack / Deployment` | End-to-end web application built with Flask (Backend) and Vite (Frontend), with optimized Linux VPS deployment. |
+| **Vehicle Detection and Counting** | `Computer Vision / YOLO` | Computer vision system for traffic monitoring, performing license plate detection and traffic flow counting. |
+| **EVA Web Platform** | `RAG / AI Agents` | Complete RAG application deployed on a Linux VPS for automating and generating complex commercial proposals using AI agents. |
+| **Spatial Video Processing** | `Computer Vision / OpenCV` | Python automation for precise frame extraction from videos synchronized with GPX file coordinates. |
+| **AI in Augmentative Communication (AAC)** | `Deep Learning / Accessibility` | Development of intelligent systems to dynamically adapt interfaces and facilitate alternative communication. |
 
 ---
 
